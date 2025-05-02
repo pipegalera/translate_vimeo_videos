@@ -20,7 +20,7 @@ Simple script that inputs 2 `mp4` videos (audio, video) in *any language* and ge
 1. Processes videos from a local `videos` directory
 2. Skips if a video is found in `videos_translated` directory
 2. Extracts audio from each video
-3. Transcribes and translates Danish speech to English text using [faster-whisper python package](https://github.com/SYSTRAN/faster-whisper?tab=readme-ov-file)
+3. Transcribes and translates most languages audio to English text using [faster-whisper python package](https://github.com/SYSTRAN/faster-whisper?tab=readme-ov-file)
 4. Creates SRT subtitle files with proper timing
 5. Embeds English subtitles into the original videos
 6. Saves translated video to a `videos_translated` directory
