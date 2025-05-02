@@ -1,7 +1,7 @@
 
 # Generate English Captations from Vimeo video
 
-Simple script that inputs 2 `mp4` videos (audio, video) in *any language* and generate a single video with english generated subtitles.
+Simple script that inputs 2 `mp4` videos (audio, video) in *any language* and outputs a single video with english generated subtitles.
 
 ![sample](images/script.png)
 
